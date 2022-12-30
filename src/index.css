@@ -1,0 +1,9 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-weight: Helvetica;
+}
+
+body {
+    min-height: 100vh;
+}
