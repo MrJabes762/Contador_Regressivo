@@ -1,4 +1,4 @@
-import "./Counter.css"
+import "./Counter.css";
 
 const Counter = ({ title, number }) => {
     return (
